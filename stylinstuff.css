@@ -20,7 +20,7 @@
     nav {
         box-sizing: border-box;
         line-height:30px;
-        background-color:#eeeeee;
+        background-color:green;
         width:100%;
         display: inline-block;
         vertical-align: top;
@@ -47,9 +47,9 @@
       width: 334px;
       display: inline-block;
       vertical-align: top;
-      background-color:#eeeeee;
+      background-color:green;
       font-size: 18px;
-      min-height: 352px;
+      height: 140px;
       padding: 8px;
       margin-left: -4px;
     }
